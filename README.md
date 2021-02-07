@@ -8,30 +8,30 @@ The goal of this project is to lear the basics of [Go](https://golang.org/) by i
 
 ### Basics
 
-- [] Variables and Functions
-- [] Flow control statements
-- [] Advanced types
-- [] Methods and Interfaces
-- [] Concurrency
+- [ ] Variables and Functions
+- [ ] Flow control statements
+- [ ] Advanced types
+- [ ] Methods and Interfaces
+- [ ] Concurrency
 
 ### Algorithms
 
-- [] Binary search
-- [] DFS
-- [] BFS
-- [] A*
-- [] Merge sort
-- [] Quick sort
-- [] KMP
-- [] Floyd's tortoise and hare
+- [ ] Binary search
+- [ ] DFS
+- [ ] BFS
+- [ ] A*
+- [ ] Merge sort
+- [ ] Quick sort
+- [ ] KMP
+- [ ] Floyd's tortoise and hare
 
 ### Data structures
 
-- [] Linked list
-- [] Graph
-- [] Queue
-- [] Set
-- [] Stack
-- [] Binary search tree
-- [] Doubly linked list
-- [] Hash table (with separate chaining with linked lists)
+- [ ] Linked list
+- [ ] Graph
+- [ ] Queue
+- [ ] Set
+- [ ] Stack
+- [ ] Binary search tree
+- [ ] Doubly linked list
+- [ ] Hash table (with separate chaining with linked lists)
